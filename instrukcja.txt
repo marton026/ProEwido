@@ -1,7 +1,6 @@
 Instrukcja uruchomienia aplikacji :
 
 1.Aplikacja jest pod linkiem:  http://proewido.monelit.eu/
-[ProEwido](http://proewido.monelit.eu/)
 2.Logowanie się na Administratora do aplikacji: 
 				login:  marton
 				hasło:  marton
